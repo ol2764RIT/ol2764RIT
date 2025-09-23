@@ -36,11 +36,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ol2764RIT&show_icons=true&theme=radical&hide_title=true&hide=prs" alt="Oleg's GitHub stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ol2764RIT&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
