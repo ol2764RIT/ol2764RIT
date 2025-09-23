@@ -9,11 +9,10 @@
 
 ### 🛠️ About Me
 
-- 🎓 Third-year Cybersecurity student in the BS/MS program at **RIT**
-- ⚙️ Embedded Software Engineer for the **RIT Electric Vehicle Team**
-- 🧪 Focused on **firmware development**, **vulnerability research**, and **real-time systems**
-- 🔍 Interested in **binary exploitation**, **fuzzing**, and **secure embedded platforms**
-- 🧩 Always down for debugging weird edge cases or reverse engineering binaries
+- Third-year Cybersecurity student in the BS/MS program at **RIT**
+- Embedded Software Engineer for the **RIT Electric Vehicle Team**
+- Focused on **firmware development**, **vulnerability research**, and **reverse engineering**
+- Interested in **binary exploitation**, **fuzzing**, and **secure embedded platforms**
 
 ---
 
@@ -31,10 +30,9 @@
 
 ### 🔭 Current Projects
 
-- ⚡ Motor control, telemetry, and sensor interfacing for the [RIT EVT](https://evteam.rit.edu)
+- ⚡ Digital to Analog Converter for RIT EVT
 - 🛠️ Fuzzing and sanitizing embedded software using Clang/LLVM tools
 - 🔐 Binary exploitation and reversing challenges for skill sharpening
-- 🌡️ Developing thermocouple-based temperature monitoring modules for EVs
 
 ---
 
@@ -48,38 +46,17 @@
 
 ---
 
-### 🎯 Fun Facts
-
-- 🕵️ I enjoy reverse engineering more than playing games
-- 🧠 Most of my commits happen after midnight
-- 🧰 I’ve bricked a microcontroller just to learn how to unbrick it
-- 🤖 I treat debugging hardware like a personal challenge
-
----
-
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&labelColor=0A66C2&logoColor=white)](https://www.linkedin.com/in/oleglazari/)
-[![RIT-EVT](https://img.shields.io/badge/RIT%20EVT-orange?style=flat&logo=tesla&logoColor=white)](https://evteam.rit.edu)
-
----
 
 ### 🧠 Pinned Repos You Should See
 
 ⭐ [`binary-exploitation-writeups-pico`](https://github.com/ol2764RIT/binary-exploitation-writeups-pico)  
-> CTF-style challenges to explore exploit chains and reverse engineering in embedded systems.
+> CTF-style challenges to explore exploit chains and reverse engineering in linux binaries.
 
 🧪 [`fuzzing-stuff`](https://github.com/ol2764RIT/fuzzing-stuff)  
-> Custom harnesses and automated fuzzing scripts using Clang sanitizers for embedded codebases.
+> Custom harnesses and automated fuzzing scripts using Clang sanitizers for various C libraries codebases.
 
 ⚡ [`RIT-EVT/HIB`](https://github.com/RIT-EVT/HIB)  
 > Rider control interface firmware—translating analog inputs into real-time digital signals.
 
 🌡️ [`RIT-EVT/TMU`](https://github.com/RIT-EVT/TMU)  
 > A thermocouple measurement system for real-time temperature telemetry on EVs.
-
----
-
-<p align="center">
-  🚀 Let's build cool stuff that talks to hardware and breaks in interesting ways.
-</p>
