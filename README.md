@@ -9,7 +9,7 @@
 
 ### 🛠️ About Me
 
-- Third-year Cybersecurity student in the BS/MS program at **RIT**
+- Fourth-year Cybersecurity student in the BS/MS program at **RIT**
 - Embedded Software Engineer for the **RIT Electric Vehicle Team**
 - Focused on **firmware development**, **vulnerability research**, and **reverse engineering**
 - Interested in **binary exploitation**, **fuzzing**, and **secure embedded platforms**
